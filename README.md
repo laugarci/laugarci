@@ -10,7 +10,7 @@
   		<li><a href="https://github.com/laugarci/printf">ft_printf</a>: program that replicates printf</li>
   		<li><a href="https://github.com/laugarci/get_next_line">Get next line</a>: project that reads a file line by line</li>
       <li>Born2beroot: virtual machine creation</li>
-      <li>So_long | in progress: 2D videogame</li>
+      <li><a href="https://github.com/laugarci/so_long">So_long</a> | in progress: 2D videogame</li>
   	</ul>
   </li><li>My own projects
   	<ul>
