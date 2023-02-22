@@ -21,7 +21,7 @@
       <li><b>Push_swap:</b> project to sort data in a stack, with a limited set of instructions in the smallest number of moves, using a sorting algorithm</li>
       <li><b>Minitalk:</b> program that exchanges data using UNIX signals.</i>
   	</ul></li></ul>
-  <h3>My own projects or trainings</h3>
+  <h3>My own projects</h3>
   	<ul>
       <li>In progress ⏳</li>
   	</ul>
