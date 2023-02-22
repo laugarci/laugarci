@@ -4,21 +4,16 @@
 </div>
 <h2>My projects</h2>
 <ul>
-  <li>42 Barcelona | school</li>
-  <li>My own projects</li>
-</ul>
-
-<!--
-**laugarci/laugarci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <li>42 Barcelona | School
+  	<ul>
+  		<li><a href="https://github.com/laugarci/libft">Libft</a>: project that replicates all functions of the C library</li>
+  		<li><a href="https://github.com/laugarci/printf">ft_printf</a>: program that replicates printf</li>
+  		<li><a href="https://github.com/laugarci/get_next_line">Get next line</a>: project that reads a file line by line</li>
+      <li>Born2beroot: virtual machine creation</li>
+      <li>So_long | in progress: 2D videogame</li>
+  	</ul>
+  </li><li>My own projects
+  	<ul>
+      <li>In progress ⏳</li>
+  	</ul>
+  </li>
