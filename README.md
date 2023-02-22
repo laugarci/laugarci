@@ -4,6 +4,7 @@
 </div>
 <h2>My projects</h2>
 <h3>42 Barcelona | school</h3>
+<ul><li><b><a href="https://github.com/laugarci/piscine">Piscine</a>:</b> projects of the selection process to join 42 barcelona as a student.</li></ul>
 <ul><li>Level 0:
   	<ul>
   		<li><b><a href="https://github.com/laugarci/libft">Libft</a></b>: project that replicates all functions of the C library</li>
