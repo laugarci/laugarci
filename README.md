@@ -31,5 +31,5 @@
   	</ul>
   </li>
 <h2>Contact me</h2>
-<p><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="C" width="15" height="15"> <a href="https://www.linkedin.com/in/laura-garcia-arch-4530a81ab" target="_blank">Linkedin</a></p>
+<p><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="C" width="15" height="15"> <a href="https://www.linkedin.com/in/laura-garcia-arch-4530a81ab">Linkedin</a></p>
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="C" width="15" height="10"> <a href="mailto:garch.laura@gmail.com">garch.laura@gmail.com</a></p>
