@@ -1,4 +1,12 @@
-### Hi there, welcome to my Github 👋
+<h1>Hi there, welcome to my Github 👋</h1>
+<div>
+<p style="text-align:justify;">In 2017 I finished my degree in Early Childhood Education and I was working in the world of education. In 2022 I decided to change my career and train as a programmer. After passing the selection process, I entered as a student in 42 Barcelona, a campus with a gamified and peer-to-peer methodology. This methodology requires cooperation, effort and perseverance to advance. Currently, I am still training and looking for experiences to improve and get my maximum potential as a programmer.</p>
+</div>
+<h2>My projects</h2>
+<ul>
+  <li>42 Barcelona | school</li>
+  <li>My own projects</li>
+</ul>
 
 <!--
 **laugarci/laugarci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
