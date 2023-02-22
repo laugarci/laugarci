@@ -12,7 +12,7 @@
       <li>Born2beroot: virtual machine creation</li>
       <li><a href="https://github.com/laugarci/so_long">So_long</a>: 2D videogame</li>
   	</ul>
-  </li><li>My own projects
+  </li><li>My own projects or trainings
   	<ul>
       <li>In progress ⏳</li>
   	</ul>
