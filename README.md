@@ -27,6 +27,7 @@
   <h3>My own projects</h3>
   	<ul>
        <li><b><a href="https://archgames.itch.io/crazy-diapers">Crazy Diapers</b>:</a> computer game about a teacher being attacked by dirty diapers</li>
+      <li><b><a href="https://www.codecademy.com/profiles/laugarci">Codecademy projects</a></b></li>
       <li>In progress ⏳</li>
   	</ul>
   </li>
