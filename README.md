@@ -13,7 +13,6 @@
       <li><b>Born2beroot:</b> creating a virtual machine server using Debian</li>
       <li><b><a href="https://github.com/laugarci/so_long">So_long</a></b>: 2D videogame</li>
       <li><b>Push_swap</b>: project to sort data in a stack, with a limited set of instructions in the smallest number of moves, using a sorting algorithm</li>
-      <li><b>Minitalk</b>: program that exchanges data using UNIX signals.</i>
   	</ul></li>
   <h3>My own projects</h3>
   	<ul>
