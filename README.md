@@ -15,6 +15,10 @@
       <li><b><a href="https://github.com/laugarci/so_long">So_long</a></b>: 2D videogame</li>
       <li><b>Push_swap</b>: project to sort data in a stack, with a limited set of instructions in the smallest number of moves, using a sorting algorithm</li>
   	</ul></li>
+  <h3>Factoria F5</h3>
+  <ul>
+  <li><b><a href="https://github.com/laugarci/start_up_site">StarUp Site</a></b>: Project of a website made with CSS and HTML</li>
+  </ul>
   <h3>My own projects</h3>
   	<ul>
        <li><b><a href="https://archgames.itch.io/crazy-diapers">Crazy Diapers</b></a>: computer game about a teacher being attacked by dirty diapers</li>
