@@ -19,7 +19,7 @@
   <ul>
   <li><b><a href="https://github.com/laugarci/start_up_site">StarUp Site</a></b>: Project of a website made with CSS and HTML</li>
   </ul>
-  <h3>My own projects</h3>
+  <h3>Other projects</h3>
   	<ul>
        <li><b><a href="https://archgames.itch.io/crazy-diapers">Crazy Diapers</b></a>: computer game about a teacher being attacked by dirty diapers</li>
       <li><b><a href="https://github.com/laugarci/chat_app">Chat</a></b>: a basic chat appliccation using sockets</li>
