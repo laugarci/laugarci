@@ -7,7 +7,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="C" width="40" height="40"></p>
 <h2>Projects</h2>
 <h3>42 Barcelona</h3>
-<ul><li><b><a href="https://github.com/laugarci/piscine">Piscine</a></b>: projects of the selection process to join 42 barcelona as a student.</li>
+<ul>
   		<li><b><a href="https://github.com/laugarci/libft">Libft</a></b>: project that replicates all functions of the C library</li>
   		<li><b><a href="https://github.com/laugarci/printf">ft_printf</a></b>: program that replicates printf</li>
   		<li><b><a href="https://github.com/laugarci/get_next_line">Get next line</a></b>: project that reads from file descriptor line by line</li>
