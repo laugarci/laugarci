@@ -18,6 +18,7 @@
   <h3>Factoria F5</h3>
   <ul>
   <li><b><a href="https://github.com/laugarci/start_up_site">StarUp Site</a></b>: Project of a website made with CSS and HTML</li>
+  <li><b><a href="https://github.com/laugarci/hit_the_dom">Hit the DOMboom</a></b>: Web page project that allows users to play virtual drums using their mouse</li>
   </ul>
   <h3>Other projects</h3>
   	<ul>
