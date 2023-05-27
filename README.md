@@ -15,11 +15,12 @@
       <li><b><a href="https://github.com/laugarci/so_long">So_long</a></b>: 2D videogame</li>
       <li><b><a href="https://github.com/laugarci/push_swap">Push_swap</a></b>: project to sort numbers in a stack, with a limited set of instructions in the smallest number of moves, using a sorting algorithm</li>
        <li><b><a href="https://github.com/laugarci/minitalk">Minitalk</a></b>: data exchange program using UNIX signals || <i>In progress</i></li>
-  	</ul></li>
+  	</ul>
   <h3>Factoria F5</h3>
   <ul>
   <li><b><a href="https://github.com/laugarci/start_up_site">StarUp Site</a></b>: project of a website made with CSS and HTML</li>
   <li><b><a href="https://github.com/laugarci/hit_the_dom">Hit the DOMboom</a></b>: web page project that allows users to play virtual drums using their mouse</li>
+  <li><b><a href="https://github.com/laugarci/wheel_of_dom">Wheel of dom</a></b>: this project is a themed game called Wheel of Doom based on Monsters, Inc., featuring name addition, deletion, door spinning, and the display of the crushed door.
   </ul>
   <h3>Other projects</h3>
   	<ul>
