@@ -25,7 +25,7 @@
   	<ul>
        <li><b><a href="https://archgames.itch.io/crazy-diapers">Crazy Diapers</b></a>: computer game about a teacher being attacked by dirty diapers</li>
       <li><b><a href="https://github.com/laugarci/chat_app">Chat</a></b>: a basic chat appliccation using sockets</li>
-        <li>You can also see my <b><a href="https://www.codecademy.com/profiles/laugarci">Codecademy projects</a></b></li>
+        <li>You can also see my <b><a href="https://www.codecademy.com/profiles/laugarci">Codecademy projects</a></b> and my progress in <b><a href="https://www.codewars.com/users/laugarci">Codewars</a></b></li>
       <li>Programmer under construction, come back soon to see more projects</li>
   	</ul>
   </li>
