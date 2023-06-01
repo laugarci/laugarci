@@ -24,6 +24,7 @@
   </ul>
   <h3>Katas: do you want to practice?</h3>
   <ul>
+  <li><b><a href="https://github.com/laugarci/kata-js-lvl0">Kata JS 0</a></b> : kata to practice javascript variables (for beginners)</li>
   <li><b><a href="https://github.com/laugarci/kata-js-lvl1">Kata JS 1</a></b> : kata to practice some javascript methods (for beginners)</li>
   <li><b><a href="https://github.com/laugarci/kata-js-lvl2">Kata JS 2</a></b> : kata to practice more javascript methods and booleans (for beginners)</li>
 </ul>
