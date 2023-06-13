@@ -17,10 +17,9 @@
   	</ul>
   <h3>Factoria F5 | Full-Stack Development</h3>
   <ul>
-  <li><b><a href="https://github.com/laugarci/start_up_site">StarUp Site</a></b>: project of a website made with CSS and HTML</li>
   <li><b><a href="https://github.com/laugarci/hit_the_dom">Hit the DOMboom</a></b>: web page project that allows users to play virtual drums using their mouse</li>
   <li><b><a href="https://github.com/laugarci/wheel_of_dom">Wheel of dom</a></b>: this project is a themed game called Wheel of Doom based on Monsters, Inc., featuring name addition, deletion, door spinning, and the display of the crushed door.</li>
-  <li><b><a href="https://github.com/laugarci/API-CuriousFacts">Curious facts</a></b>: a website that receives random curious data from an API. You have the option to save them as favorites and view them in the favorites tab, where you can also delete them.</li>
+  <li><b><a href="https://github.com/laugarci/API-CuriousFacts">Curious facts</a></b>: a website that receives random curious data from an API. You have the option to save them as favorites and view them in the favorites tab, where you can also delete them. To view the result on the web, <a href="https://curiousfacts.netlify.app/">click here</a>.</li>
   </ul>
   <h3>Katas: do you want to practice?</h3>
   <ul>
