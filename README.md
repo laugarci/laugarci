@@ -22,7 +22,7 @@
   <li><b><a href="https://github.com/laugarci/wheel_of_dom">Wheel of dom</a></b>: this project is a themed game called Wheel of Doom based on Monsters, Inc., featuring name addition, deletion, door spinning, and the display of the crushed door.</li>
   <li><b><a href="https://github.com/laugarci/API-CuriousFacts">Curious facts</a></b>: a website that receives random curious data from an API. You have the option to save them as favorites and view them in the favorites tab, where you can also delete them. To view the result on the web, <a href="https://curiousfacts.netlify.app/">click here</a>.</li>
           <li><b><a href="https://github.com/laugarci/chat_app">Chat</a></b>: a chat appliccation using sockets</li>
-          <li><b><a href="https://github.com/EqualWaveStudio/soundwave">Sound wave</a></b>: landing page build with React.</li>
+          <li><b><a href="https://github.com/EqualWaveStudio/soundwave">Sound wave</a></b>: landing page build with React</li>
     
   </ul>
   <h3>Katas: do you want to practice?</h3>
