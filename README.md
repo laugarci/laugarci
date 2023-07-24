@@ -9,7 +9,7 @@
 <h3>Software Development</h3>
 <ul>
   		<li><b><a href="https://github.com/laugarci/libft">Libft</a></b>: project that replicates all functions of the C library</li>
-  		<li><b><a href="https://github.com/laugarci/printf">ft_printf</a></b>: program that replicates printf</li>
+  		<li><b><a href="https://github.com/laugarci/printf">Ft_printf</a></b>: program that replicates printf</li>
   		<li><b><a href="https://github.com/laugarci/get_next_line">Get next line</a></b>: project that reads from file descriptor line by line</li>
       <li><b><a href="https://github.com/laugarci/so_long">So_long</a></b>: 2D videogame</li>
       <li><b><a href="https://github.com/laugarci/push_swap">Push_swap</a></b>: project to sort numbers in a stack, with a limited set of instructions in the smallest number of moves, using a sorting algorithm</li>
