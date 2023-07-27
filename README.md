@@ -15,7 +15,7 @@
       <li><b><a href="https://github.com/laugarci/push_swap">Push_swap</a></b>: project to sort numbers in a stack, with a limited set of instructions in the smallest number of moves, using a sorting algorithm</li>
        <li><b><a href="https://github.com/laugarci/minitalk">Minitalk</a></b>: data exchange program using UNIX signals</li>
   <li><b><a href="https://github.com/laugarci/minishell">Minishell</a></b>: <i>In progress</i> | program that replicates a shell in C</li>
-  <li><b><a href="https://github.com/laugarci/philosphers">Philosphers</a></b>: <i>In progress</i></li>
+  <li><b><a href="https://github.com/laugarci/philosophers">Philosophers</a></b>: <i>In progress</i></li>
   	</ul>
   <h3>Full-Stack Development</h3>
   <ul>
