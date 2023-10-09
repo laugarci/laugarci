@@ -14,7 +14,7 @@
       <li><b><a href="https://github.com/laugarci/so_long">So_long</a></b>: 2D videogame</li>
       <li><b><a href="https://github.com/laugarci/push_swap">Push_swap</a></b>: project to sort numbers in a stack, with a limited set of instructions in the smallest number of moves, using a sorting algorithm</li>
        <li><b><a href="https://github.com/laugarci/minitalk">Minitalk</a></b>: data exchange program using UNIX signals</li>
-  <li><b><a href="https://github.com/laugarci/minishell">Minishell</a></b>: program that replicates a shell in C</li>
+  <li><b><a href="https://github.com/laugarci/minishell">Minishell</a></b>: this project included features like user prompts, command history, and executing programs based on PATH. It managed advanced functions like quotes, redirections, and environment variable expansion. The project also implemented essential built-in commands, signal handling, and memory management to prevent errors.</li>
   <li><b><a href="https://github.com/laugarci/philosophers">Philosophers</a></b>: this project is a training to multi-threads/multi-process programming with the use of mutex</li>
   <li><b><a href="https://github.com/laugarci/Cpp00">C++</a></b>: <i>in progress</i> | projects to learn C++.</li>
   	</ul>
