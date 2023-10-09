@@ -18,7 +18,7 @@
   <li><b><a href="https://github.com/laugarci/philosophers">Philosophers</a></b>: this project is a training to multi-threads/multi-process programming with the use of mutex</li>
   <li><b><a href="https://github.com/laugarci/Cpp00">C++</a></b>: <i>in progress</i> | projects to learn C++.</li>
   	</ul>
-  <h3>Full-Stack Development</h3>
+  <h3>Web Development</h3>
   <ul>
   <li><b><a href="https://github.com/laugarci/hit_the_dom">Hit the DOMboom</a></b>: web page project that allows users to play virtual drums using their mouse</li>
   <li><b><a href="https://github.com/laugarci/wheel_of_dom">Wheel of dom</a></b>: this project is a themed game called Wheel of Doom based on Monsters, Inc., featuring name addition, deletion, door spinning, and the display of the crushed door.</li>
