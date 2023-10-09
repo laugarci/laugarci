@@ -16,6 +16,7 @@
        <li><b><a href="https://github.com/laugarci/minitalk">Minitalk</a></b>: data exchange program using UNIX signals</li>
   <li><b><a href="https://github.com/laugarci/minishell">Minishell</a></b>: program that replicates a shell in C</li>
   <li><b><a href="https://github.com/laugarci/philosophers">Philosophers</a></b>: this project is a training to multi-threads/multi-process programming with the use of mutex</li>
+  <li><b><a href="https://github.com/laugarci/Cpp00">C++</a></b>: <i>in progress</i> | projects to learn C++.</li>
   	</ul>
   <h3>Full-Stack Development</h3>
   <ul>
