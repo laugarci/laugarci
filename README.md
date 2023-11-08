@@ -16,7 +16,7 @@
        <li><b><a href="https://github.com/laugarci/minitalk">Minitalk</a></b>: data exchange program using UNIX signals</li>
   <li><b><a href="https://github.com/laugarci/minishell">Minishell</a></b>: this project included features like user prompts, command history, and executing programs based on PATH. It managed advanced functions like quotes, redirections, and environment variable expansion. The project also implemented essential built-in commands, signal handling, and memory management to prevent errors.</li>
   <li><b><a href="https://github.com/laugarci/philosophers">Philosophers</a></b>: this project is a training to multi-threads/multi-process programming with the use of mutex</li>
-  <li><b><a href="https://github.com/laugarci/Cpp00">C++</a></b>: <i>in progress</i> | projects to learn C++</li>
+  <li><b><a href="https://github.com/laugarci/CPP_index/">C++</a></b>: <i>in progress</i> | projects to learn C++</li>
   <li><b><a href="https://github.com/laugarci/NetPractice">Net Practice</a>:</b> project and information about computer networks designed to provide a comprehensive understanding of key concepts, such as IP addresses, routers, switches, and network protocols </li> 
   	</ul>
   <h3>Web Development</h3>
