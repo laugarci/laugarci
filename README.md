@@ -16,8 +16,9 @@
        <li><b><a href="https://github.com/laugarci/minitalk">Minitalk</a></b>: data exchange program using UNIX signals</li>
   <li><b><a href="https://github.com/laugarci/minishell">Minishell</a></b>: this project included features like user prompts, command history, and executing programs based on PATH. It managed advanced functions like quotes, redirections, and environment variable expansion. The project also implemented essential built-in commands, signal handling, and memory management to prevent errors.</li>
   <li><b><a href="https://github.com/laugarci/philosophers">Philosophers</a></b>: this project is a training to multi-threads/multi-process programming with the use of mutex</li>
-  <li><b><a href="https://github.com/laugarci/CPP_index/">C++</a></b>: <i>in progress</i> | projects to learn C++</li>
   <li><b><a href="https://github.com/laugarci/NetPractice">Net Practice</a>:</b> project and information about computer networks designed to provide a comprehensive understanding of key concepts, such as IP addresses, routers, switches, and network protocols </li> 
+    <li><b><a href="https://github.com/laugarci/CPP_index/">C++</a></b>: <i>in progress</i> | projects to learn C++</li>
+    <li><b><a href="https://github.com/laugarci/cub3d/">Cub3d</a></b>: <i>in progress</i> | project that involves creating a realistic three-dimensional graphical representation of the interior of a maze from a first-person perspective using Ray-Casting principles</li>
   	</ul>
   <h3>Web Development</h3>
   <ul>
