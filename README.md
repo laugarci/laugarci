@@ -1,7 +1,6 @@
 <h1>Welcome to my Github!👋</h1>
 <div>
 <p>In 2017, I completed my degree in Early Childhood Education and worked in the education field for five years. In 2022, I made the decision to change my career and become a programmer. After successfully passing the selection process, I became a student at 42 Barcelona, a campus that uses a gamified and peer-to-peer methodology. This approach requires cooperation, effort, and perseverance to make progress. Currently, I am continuing my training and seeking experiences to enhance my skills and reach my full potential as a programmer</p>
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laugarci)
 
 </div>
 <h2>Learning...</h2>
