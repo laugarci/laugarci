@@ -21,7 +21,7 @@
     <li><b><a href="https://github.com/laugarci/cub3d/">Cub3d</a></b>: project that involves creating a realistic three-dimensional graphical representation of the interior of a maze from a first-person perspective using Ray-Casting principles</li>
   <li><b><a href="https://github.com/laugarci/CPP_index/">C++</a></b>: projects to practice C++</li>
   <li><b><a href="https://github.com/theonewhoknew/webserv">Webserv</a></b>: HTTP server that uses non-blocking I/O operations. It supports HTTP methods such as GET, POST, and DELETE, as well as functionalities like serving static sites, file uploading, and CGI execution based on file extensions</li>
-  <li><b><a href="https://github.com/laugarci/inception">Inception</a></b>: Project involving setting up an infrastructure on a virtual machine using Docker Compose, with custom Dockerfiles for NGINX, WordPress with php-fpm, and MariaDB, including volumes and Docker network. </li>
+  <li><b><a href="https://github.com/laugarci/inception">Inception</a></b>: project involving setting up an infrastructure on a virtual machine using Docker Compose, with custom Dockerfiles for NGINX, WordPress with php-fpm, and MariaDB, including volumes and Docker network. </li>
   <li><b><a href="https://github.com/jesuserr/ft_transcendence">Transcendance</a></b>: <i>in progress </i> </li>
   </ul>
   <h3>Web Development</h3>
