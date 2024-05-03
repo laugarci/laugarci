@@ -17,11 +17,13 @@
        <li><b><a href="https://github.com/laugarci/minitalk">Minitalk</a></b>: data exchange program using UNIX signals</li>
   <li><b><a href="https://github.com/laugarci/minishell">Minishell</a></b>: this project included features like user prompts, command history, and executing programs based on PATH. It managed advanced functions like quotes, redirections, and environment variable expansion. The project also implemented essential built-in commands, signal handling, and memory management to prevent errors.</li>
   <li><b><a href="https://github.com/laugarci/philosophers">Philosophers</a></b>: this project is a training to multi-threads/multi-process programming with the use of mutex</li>
-  <li><b><a href="https://github.com/laugarci/NetPractice">Net Practice</a>:</b> project and information about computer networks designed to provide a comprehensive understanding of key concepts, such as IP addresses, routers, switches, and network protocols </li> 
+  <li><b><a href="https://github.com/laugarci/NetPractice">Net Practice</a></b>: project and information about computer networks designed to provide a comprehensive understanding of key concepts, such as IP addresses, routers, switches, and network protocols </li> 
     <li><b><a href="https://github.com/laugarci/cub3d/">Cub3d</a></b>: project that involves creating a realistic three-dimensional graphical representation of the interior of a maze from a first-person perspective using Ray-Casting principles</li>
   <li><b><a href="https://github.com/laugarci/CPP_index/">C++</a></b>: projects to practice C++</li>
-  <li><b><a href="https://github.com/theonewhoknew/webserv">Webserv</a></b>: <i>in progress</i> | HTTP server</li>
-  	</ul>
+  <li><b><a href="https://github.com/theonewhoknew/webserv">Webserv</a></b>: HTTP server that uses non-blocking I/O operations. It supports HTTP methods such as GET, POST, and DELETE, as well as functionalities like serving static sites, file uploading, and CGI execution based on file extensions</li>
+  <li><b><a href="https://github.com/laugarci/inception">Inception</a></b>: Project involving setting up an infrastructure on a virtual machine using Docker Compose, with custom Dockerfiles for NGINX, WordPress with php-fpm, and MariaDB, including volumes and Docker network. </li>
+  <li><b><a href="https://github.com/jesuserr/ft_transcendence">Transcendance</a></b>: <i>in progress </i> </li>
+  </ul>
   <h3>Web Development</h3>
   <ul>
   <li><b><a href="https://github.com/laugarci/hit_the_dom">Hit the DOMboom</a></b>: web page project that allows users to play virtual drums using their mouse</li>
