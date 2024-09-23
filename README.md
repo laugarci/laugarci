@@ -22,7 +22,7 @@
   <li><b><a href="https://github.com/laugarci/CPP_index/">C++</a></b>: projects to practice C++</li>
   <li><b><a href="https://github.com/theonewhoknew/webserv">Webserv</a></b>: HTTP server that uses non-blocking I/O operations. It supports HTTP methods such as GET, POST, and DELETE, as well as functionalities like serving static sites, file uploading, and CGI execution based on file extensions</li>
   <li><b><a href="https://github.com/laugarci/inception">Inception</a></b>: project involving setting up an infrastructure on a virtual machine using Docker Compose, with custom Dockerfiles for NGINX, WordPress with php-fpm, and MariaDB, including volumes and Docker network. </li>
-  <li><b><a href="https://github.com/jesuserr/ft_transcendence">Transcendance</a></b>: <i>in progress </i> </li>
+  <li><b><a href="https://github.com/jesuserr/ft_transcendence">Transcendance</a></b>: A web project that incorporates the Pong game, both locally and remotely, or with an AI, along with a chat to talk with your friends. </li>
   </ul>
   <h3>Web Development</h3>
   <ul>
